@@ -1,0 +1,18 @@
+.title{
+    background-color:aqua;
+    font-size:26px;
+    border-color: blueviolet;
+    border-width:5px;
+    border-style:double;
+    color:blueviolet;
+    text-align:center
+} 
+h2{
+  background-color:yellowgreen;
+  font-size:16px;
+  border-color: blueviolet;
+  border-width:5px;
+  border-style:double;
+  color:blueviolet;
+  text-align:center
+}
